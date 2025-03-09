@@ -1,7 +1,7 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding-top: 60px; 
-     background-image: url('background3.jpg');
+    background-image: url('background3.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
