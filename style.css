@@ -1,6 +1,11 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-top: 60px; /* Offset for fixed navbar */
+    padding-top: 60px; 
+     background-image: url('background3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
 }
 
 .navbar-brand {
@@ -17,8 +22,8 @@ body {
 }
 
 .hero-section {
-    background-color: #f8f9fa;
-    padding: 50px 0;
+     background-color: rgba(0, 0, 0, 0.2); 
+     padding: 50px 0;
 }
 
 .card img {
